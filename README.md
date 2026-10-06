@@ -6,5 +6,3 @@
 - 🌱 Currently learning DSA
 - 📫 Email:paswanashish189@email.com
 - 💼 LinkedIn: Add your link here
-
-![Stats](https://github-readme-stats.vercel.app/api?username=paswanashish189-glitch&show_icons=true&theme=tokyonight)

@@ -4,5 +4,5 @@
 💻 Skills: React, JavaScript, C, C++, Tailwind CSS
 
 - 🌱 Currently learning DSA
-- 📫 Email:paswanashish189@email.com
+- 📫 Email:paswanashish189@gmail.com
 - 💼 LinkedIn: Add your link here
